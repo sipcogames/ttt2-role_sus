@@ -1,0 +1,11 @@
+{
+	"title"		:	"[TTT2] Sus [ROLE]",
+	"type"		:	"ServerContent",
+    "tags"		:	[ "roleplay", "fun" ],
+    "ignore"    : [
+        ".git/*",
+        ".gitignore",
+		".gitattributes",
+        "README.md"
+    ]
+}
