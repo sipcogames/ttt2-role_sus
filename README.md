@@ -1,2 +1,2 @@
-# ttt2-role_sus
+# The SUS Role
 Sus Traitor/Innocent Role for TTT2
